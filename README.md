@@ -1,0 +1,2 @@
+# nurdin.py
+Nurdinbot
